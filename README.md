@@ -13,7 +13,7 @@ With a background in **Accounting and Finance**, I bring strong analytical think
 # 🚀 About Me
 
 🌱 Currently learning **MERN Stack Development**  
-📚 Practicing **Frontend and Backend Web Development**  
+📚 Training at **Entries Institute**  
 🔍 Interested in **Web Development, APIs, and Backend Systems**  
 🎯 Goal: Become a **Professional Full Stack Developer**
 
@@ -65,26 +65,28 @@ With a background in **Accounting and Finance**, I bring strong analytical think
 
 ### Financial Accounting
 
-- Journal Entries
-- Ledger Maintenance
-- Bank Reconciliation Statement (BRS)
-- Profit & Loss Statement
-- Balance Sheet Support
+- Journal Entries  
+- Ledger Maintenance  
+- Bank Reconciliation Statement (BRS)  
+- Profit & Loss Statement  
+- Balance Sheet Support  
 
 ### Operational Accounting
 
-- Inventory & Stock Verification
-- Cost & Production Analysis
-- Financial Documentation & Reporting
+- Inventory & Stock Verification  
+- Cost & Production Analysis  
+- Financial Documentation & Reporting  
 
 ---
 
-# 📚 Currently Learning
+# 📚 Education
 
-- MERN Stack Web Development
-- Backend API Development
-- Authentication & Authorization
-- Full Stack Application Architecture
+**MERN Stack Development (Ongoing)**  
+Entries Institute  
+
+**Bachelor of Commerce (Computer Applications)**  
+KSG College of Arts and Science  
+2019 – 2022
 
 ---
 
@@ -101,14 +103,6 @@ More projects will be added soon 🚀
 
 ---
 
-# 🎓 Education
-
-Bachelor of Commerce (Computer Applications)  
-KSG College of Arts and Science  
-2019 – 2022
-
----
-
 # 📫 Connect With Me
 
 📧 Email: **ashofficial338@gmail.com**  
@@ -118,4 +112,4 @@ https://linkedin.com/in/ashwin-kumar-88840025a
 
 ---
 
-⭐ *Always learning, building, and improving.*
+⭐ Always learning, building, and improving.
